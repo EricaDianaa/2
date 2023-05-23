@@ -1,0 +1,17 @@
+body{
+   background-color: khaki;
+ 
+   
+}
+#logoepicode{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    display: flex;
+    justify-content: center; 
+}
+
+body{
+    margin: 30px;
+}
